@@ -78,7 +78,7 @@ for row in range(7):
 print()
 
 
-# combine EID letter
+# combine EID Text
 
 for i in range(7):
     for j in range(5):
@@ -99,7 +99,7 @@ print()
 print()
 
 
-# combine MUBARAK letter
+# combine MUBARAK Text
 
 for i in range(7):        
     for j in range(5):
